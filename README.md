@@ -1,3 +1,3 @@
 # serial-waves
 
-![](./circuit/esquema.png)
+![](./circuit/esquema.PNG)
